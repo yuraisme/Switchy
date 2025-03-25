@@ -1,6 +1,6 @@
 # Switchy
 
-This is fork of original  program
+This is fork of original  program.<br>
 My knowlage about c++ is too poor. Thats why I trying make more stable programm with differens AI.
 They are purposed some modifications.  You can try it by youself in releases.
 
